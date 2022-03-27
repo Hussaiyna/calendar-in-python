@@ -1,2 +1,4 @@
-# calendar-in-python
-This is a simple code that displays a specific month in a year, in this case it will be August 2005 
+- Project name: Calendar in Python (Specifically August, 2005)
+- Project description: This is a simple code that displays a specific month in a year, in this case it will be August 2005 
+- Tools/language used for project: Python language was used to make this program in Google colab
+- How to run your project: You can copy the code and paste in any system that runs Python like Juypter notebook, google colab, VS code. Or download the file and run it in any program you use to code.
